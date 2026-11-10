@@ -1,0 +1,16 @@
+category,metric,unit,direction,current,target,amber,last_week,w-5,w-4,w-3,w-2
+Safety,Recordable injuries,count,lower,0,0,0,0,0,1,0,0
+Safety,Near misses reported,count,higher,7,5,3,4,3,5,2,4
+Safety,First aid cases,count,lower,1,0,1,0,1,0,0,1
+Quality,First pass yield,%,higher,96.2,98,97,97.4,97.9,98.1,97.6,97.8
+Quality,Scrap cost,$,lower,18400,12000,14000,13100,11800,12400,12900,11600
+Quality,Customer complaints,count,lower,2,0,0,0,1,0,0,0
+Delivery,OEE,%,higher,61.4,70,65,63.5,66.2,65.8,64.9,64.1
+Delivery,Output vs plan,%,higher,92.8,100,97,96.1,99.2,98.4,97.0,97.5
+Delivery,On time in full,%,higher,93.5,95,94,95.8,97.1,96.4,96.0,95.9
+Cost,Conversion cost per case,$,lower,4.62,4.30,4.45,4.41,4.28,4.31,4.35,4.38
+Cost,Overtime,%,lower,11.8,8,10,9.6,7.4,7.9,8.3,8.8
+Maintenance,Unplanned downtime,h,lower,22.0,12,15,18.6,16.8,17.4,16.2,17.0
+Maintenance,PM compliance,%,higher,88,90,85,84,86,85,83,82
+Maintenance,Backlog,crew-weeks,band:2-4,3.4,3,,3.7,4.1,4.0,3.9,3.8
+People,Absenteeism,%,lower,4.1,3.5,4.0,3.8,3.2,3.4,3.6,3.5

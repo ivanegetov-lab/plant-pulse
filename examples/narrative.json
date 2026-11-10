@@ -1,0 +1,35 @@
+{
+  "plant": "Plant 2 · 3 packaging lines",
+  "period": "Week 45 · Nov 2–8, 2026",
+  "generated": " · sample data",
+  "headline": "Line 3's labeler cost us the week.",
+  "lead": "Labeler jams took 412 minutes, more than any other cause. The mislabeled cases drove scrap to $18,400 and caused both customer complaints. OEE fell to 61.4%, its fifth weekly drop in a row, and we covered the gap with overtime.",
+  "category_notes": {
+    "Safety": "No recordables. Near-miss reports up from 4 to 7, mostly from the new walkway card. Keep it.",
+    "Quality": "Almost all the extra scrap and both complaints trace to mislabeled cases on Line 3.",
+    "Delivery": "Down 3 points to plan. Labeler jams plus 3 hours waiting on caps on Line 2.",
+    "Cost": "Saturday overtime on Line 1 and scrap pushed cost per case 32 cents over target.",
+    "Maintenance": "Unplanned downtime up 3 weeks in a row. PM compliance is recovering.",
+    "People": "Absenteeism a little over target. Watch it with the overtime."
+  },
+  "pareto_note": "Labeler jams (Line 3 only) and changeovers (all three lines) are the two to work on. Material short was one late delivery of caps.",
+  "what_changed": [
+    "Line 3 switched to label stock from a second supplier on Tuesday. The jams started Tuesday night.",
+    "Scrap rose $5,300 (41%) week on week. Most of it is reworked or scrapped mislabeled cases.",
+    "OEE has fallen five weeks in a row, from 66.2% to 61.4%.",
+    "Overtime rose to 11.8% to catch up on plan, and conversion cost followed it up."
+  ],
+  "actions": [
+    {"title": "Find out why the Line 3 labeler jams", "why": "Start with the new label stock: run a roll from the old supplier on one shift and compare jam counts. 412 minutes and $5,300 of scrap ride on it.", "owner": "Line 3 maintenance lead + quality engineer", "due": "Wed"},
+    {"title": "Cut time on the two longest changeovers", "why": "Changeovers took 365 minutes across all three lines. Film the two longest, split the steps that can happen while the line runs.", "owner": "Production supervisor", "due": "Fri"},
+    {"title": "Check tomorrow's materials every afternoon", "why": "One late cap delivery idled Line 2 for 3 hours. A 10-minute daily check of next-day materials with the supplier catches it a day early.", "owner": "Materials planner", "due": "Starts Mon"}
+  ],
+  "decisions": [
+    "Approve 6 hours of planned downtime on Line 3 Saturday for the labeler fix.",
+    "Go back to the first label supplier until the trial is done?"
+  ],
+  "good_news": [
+    "Zero recordables, and near-miss reports up from 4 to 7.",
+    "PM compliance up 4 points to 88%, backlog inside the 2–4 week band."
+  ]
+}

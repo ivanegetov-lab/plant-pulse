@@ -1,0 +1,10 @@
+line,cause,minutes
+Line 3,Labeler jams,412
+Line 1,Changeovers,140
+Line 2,Changeovers,118
+Line 3,Changeovers,107
+Line 2,Material short,188
+Line 1,Filler faults,142
+Line 3,Waiting on maintenance,96
+Line 1,Conveyor,61
+Line 2,Other,58
