@@ -7,7 +7,13 @@ A Claude skill for plant managers, ops leaders and maintenance managers. Give it
 - **A one-page brief**: the week in one line, a scorecard by category with trends against your targets, a downtime Pareto, what changed, top 3 actions with owners, and the decisions you need from the plant manager. Prints to PDF.
 - **A 5-slide deck** of the same week: press **P** to present. Scorecard → Where the time went → What changed → Top 3 actions → Decisions needed.
 
+![Plant Pulse demo](examples/screenshots/demo.gif)
+
+<details><summary>The one-page brief (full size)</summary>
+
 ![Plant Pulse brief](examples/screenshots/brief.png)
+
+</details>
 
 ## How it works
 
