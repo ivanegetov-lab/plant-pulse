@@ -68,6 +68,10 @@ python3 scripts/plant_pulse.py render --metrics examples/weekly_metrics.csv --do
 
 `downtime_log.csv`: `line,cause,minutes`. `notes.md`: anything in plain text.
 
+## Practice data
+
+The sample week comes from **[Plant 2](https://github.com/ivanegetov-lab/plant2-dataset)**, an open dataset of a made-up packaging plant: 13 weeks of production, downtime, quality, maintenance, energy, safety and supply chain data, with at least 8 problems hidden in it. Use it to try Plant Pulse on more than one week, or take the challenge.
+
 ## Limits
 
 - The sample plant and all its numbers are made up.
