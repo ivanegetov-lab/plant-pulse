@@ -2,6 +2,8 @@
 
 **Turn your weekly plant numbers into a report you can present on Monday.**
 
+**[Live example report →](https://ivanegetov-lab.github.io/plant-pulse/examples/plant-pulse-week-45.html)**
+
 A Claude skill for plant managers, ops leaders and maintenance managers. Give it this week's numbers (safety, quality, delivery, cost, maintenance, people), your downtime log and the supervisors' notes. You get one HTML file with:
 
 - **A one-page brief**: the week in one line, a scorecard by category with trends against your targets, a downtime Pareto, what changed, top 3 actions with owners, and the decisions you need from the plant manager. Prints to PDF.
@@ -40,7 +42,7 @@ Then, in Claude Code, from a folder with your weekly exports:
 
 or just ask: *"Turn this week's numbers into a plant pulse report."*
 
-To see the output first, open [`examples/plant-pulse-week-45.html`](examples/plant-pulse-week-45.html) in a browser and press **P**.
+**See the output first, no install:** [open the live example report](https://ivanegetov-lab.github.io/plant-pulse/examples/plant-pulse-week-45.html) and press **P** to present it.
 
 To run the script yourself on the sample data:
 
